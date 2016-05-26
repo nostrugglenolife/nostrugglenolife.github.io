@@ -4,7 +4,7 @@
   <title><![CDATA[Leo7's Blog]]></title>
   <link href="http://nostrugglenolife.github.io/atom.xml" rel="self"/>
   <link href="http://nostrugglenolife.github.io/"/>
-  <updated>2016-05-26T14:11:13+08:00</updated>
+  <updated>2016-05-26T14:16:17+08:00</updated>
   <id>http://nostrugglenolife.github.io/</id>
   <author>
     <name><![CDATA[leo7]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[暗推]]></title>
+    <link href="http://nostrugglenolife.github.io/blog/2016/05/26/an-tui/"/>
+    <updated>2016-05-26T14:16:16+08:00</updated>
+    <id>http://nostrugglenolife.github.io/blog/2016/05/26/an-tui</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[一切安好]]></title>
